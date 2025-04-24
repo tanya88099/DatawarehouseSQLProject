@@ -140,5 +140,5 @@ This project demonstrates the ability to:
 
 **Tanya Singh**  
 Data Modeler | SQL Enthusiast | Azure Certified  
-📬 [Optional: Add LinkedIn or portfolio link here]
+📬 https://www.linkedin.com/in/tanya88099/
 
